@@ -1,0 +1,1 @@
+php makepot.php wp-theme ../wp-content/themes/your-theme ../wp-content/themes/your-theme/languages/tr-affreview-lite.pot
